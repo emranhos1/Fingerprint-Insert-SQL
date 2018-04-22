@@ -1,0 +1,7 @@
+sorry<?xml version="1.0" encoding="UTF-8"?>
+
+<path id = "1">
+    <newFilePath>/mnt/baby/dist/attn/</newFilePath>
+    <newLogFilePath>/mnt/baby/dist/log/NewLogFile1.log</newLogFilePath>
+    <afterSQLPath>/mnt/baby/dist/Uploaded/</afterSQLPath>
+</path>
